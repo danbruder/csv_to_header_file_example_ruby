@@ -1,9 +1,9 @@
-# CSV to C Header File Example
+# CSV to C Header File Example (ruby)
 
-To run, first install rust toolchain using rustup from [here](https://www.rust-lang.org/tools/install).
+To run, first make sure ruby is [installed](https://www.ruby-lang.org/en/documentation/installation/)
 
-Then to install dependencies and run: 
+Then run with:
 
 ```bash
-cargo run
+ruby main.rb
 ```
